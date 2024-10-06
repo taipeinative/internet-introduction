@@ -10,7 +10,7 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
 
 ## Assignments
 
-1. *To be added*
+1. [Assignment 1 - Personal website](https://github.com/taipeinative/internet-introduction/blob/main/Assignment%201/)
 2. *To be added*
 3. *To be added*
 4. *To be added*
