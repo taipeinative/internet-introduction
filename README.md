@@ -10,8 +10,18 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
 
 ## Assignments
 
-1. [Assignment 1 - Personal website](https://taipeinative.github.io/internet-introduction/Assignment%201/) | [YouTube Link](https://www.youtube.com/watch?v=F8NFPsxWYSc)
-2. [Assignment 2 - JavaScript w/ React](https://taipeinative.github.io/internet-introduction/assignment-2/build/) | [YouTube Introduction Link](https://youtu.be/qZPD1WUdcPE)
+1. Personal Website
+
+   ✨ [Demo](https://taipeinative.github.io/internet-introduction/Assignment%201/)
+
+   🎬 [Whole process on YouTube](https://youtu.be/F8NFPsxWYSc) (1.5hr)
+2. JavaScript w/ React
+
+   ✨ [Demo](https://taipeinative.github.io/internet-introduction/assignment-2/build/)
+
+   🎬 [Introduction on YouTube](https://youtu.be/qZPD1WUdcPE) (2min)
+
+   🎬 [Whole process on YouTube](https://youtu.be/) (19hr -> Playback speed 10x -> 1.9hr)
 3. *To be added*
 4. *To be added*
 
