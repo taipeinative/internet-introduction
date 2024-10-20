@@ -21,7 +21,7 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
 
    🎬 [Introduction on YouTube](https://youtu.be/qZPD1WUdcPE) (2min)
 
-   🎬 [Whole process on YouTube](https://youtu.be/) (19hr -> Playback speed 10x -> 1.9hr)
+   🎬 [Whole process on YouTube](https://youtu.be/nZSAhbRDums) (14.5hr -> Playback speed 10x -> 1.5hr)
 3. *To be added*
 4. *To be added*
 
