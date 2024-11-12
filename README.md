@@ -25,6 +25,6 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
 3. *To be added*
 4. *To be added*
 
-## Practices
+## Final project - Flashquiz
 
-To be added...
+✨ [Demo](https://taipeinative.github.io/internet-introduction/final/public/)
