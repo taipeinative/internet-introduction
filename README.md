@@ -24,7 +24,7 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
    🎬 [Whole process on YouTube](https://youtu.be/nZSAhbRDums) (14.5hr -> Playback speed 10x -> 1.5hr)
 3. Final proposal Idea
    
-   ✨[Presnetation](https://github.com/taipeinative/internet-introduction/blob/main/final/proposal/1112-Presentation.pdf)
+   ✨[Presentation](https://github.com/taipeinative/internet-introduction/blob/main/final/proposal/1112-Presentation.pdf)
 
    - These examples that can be used in my final project:
      1. [Quiz App](https://www.geeksforgeeks.org/create-a-quiz-app-using-reactjs/): I want to make a flashcard + quiz site just like [Quizlet](https://quizlet.com/). This example can help me create a simple quiz interface.
@@ -34,4 +34,4 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
 
 ## Final project - Flashquiz
 
-✨ [Demo](https://taipeinative.github.io/internet-introduction/final/public/)
+✨ [Demo](https://taipeinative.github.io/internet-introduction/final/public/) (*unfinished*)
