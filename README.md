@@ -22,7 +22,14 @@ This is the repo for my Introduction to the Internet course in 2024 autumn semes
    🎬 [Introduction on YouTube](https://youtu.be/qZPD1WUdcPE) (2min)
 
    🎬 [Whole process on YouTube](https://youtu.be/nZSAhbRDums) (14.5hr -> Playback speed 10x -> 1.5hr)
-3. *To be added*
+3. Final proposal Idea
+   
+   ✨[Presnetation](https://taipeinative.github.io/internet-introduction/final/proposal)
+
+   - These examples that can be used in my final project:
+     1. [Quiz App](https://www.geeksforgeeks.org/create-a-quiz-app-using-reactjs/): I want to make a flashcard + quiz site just like [Quizlet](https://quizlet.com/). This example can help me create a simple quiz interface.
+     2. [ToDo App](https://www.geeksforgeeks.org/create-a-quiz-app-using-reactjs/): Not directly linked, but the idea of showing the list item is very similar to flashcard layouts.
+     3. [Dictionary Application](https://www.geeksforgeeks.org/how-to-create-a-dictionary-app-in-reactjs/): Also not directly linked, but the API fetching would be useful in my project, since I have to link the Google Sheet backend.
 4. *To be added*
 
 ## Final project - Flashquiz
