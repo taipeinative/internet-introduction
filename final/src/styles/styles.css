@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Variables */
+:root {
+    --background-color: var(--background-color-day);
+    --interface-primary-color: var(--interface-primary-color-day);
+    --interface-secondary-color: var(--interface-secondary-color-day);
+    --interface-highlight-color: var(--interface-highlight-color-day);
+    --text-primary-color: var(--text-primary-color-day);
+    --text-secondary-color: var(--text-secondary-color-day);
+    --text-tertiary-color: var(--text-tertiary-color-day);
+
+    --background-color-day: #EEE;
+    --interface-primary-color-day: #F72;
+    --interface-secondary-color-day: #FCA;
+    --interface-highlight-color-day: #EEE;
+    --text-primary-color-day: #200;
+    --text-secondary-color-day: #EEE;
+    --text-tertiary-color-day: #EDA;
+
+    --background-color-night: #420;
+    --interface-primary-color-night: #210;
+    --interface-secondary-color-night: #F72;
+    --interface-highlight-color-night: #EEE;
+    --text-primary-color-night: #EEE;
+    --text-secondary-color-night: #CCC;
+    --text-tertiary-color-night: #988;
+}
+
+/* Elements */
+a {
+    text-decoration: none;
+}
+
+body {
+    background: var(--background-color);
+    color: var(--text-primary-color);
+    font-family: 'Lato', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+body * {
+    transition: left .5s, margin .5s, padding .5s;
+}
+
+/* Classes */
+.night {
+    --background-color: var(--background-color-night);
+    --interface-primary-color: var(--interface-primary-color-night);
+    --interface-secondary-color: var(--interface-secondary-color-night);
+    --interface-highlight-color: var(--interface-highlight-color-night);
+    --text-primary-color: var(--text-primary-color-night);
+    --text-secondary-color: var(--text-secondary-color-night);
+    --text-tertiary-color: var(--text-tertiary-color-night);
+}

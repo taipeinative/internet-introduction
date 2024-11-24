@@ -2,9 +2,10 @@
   "name": "flashquiz",
   "version": "0.1.0",
   "description": "Flashquiz is a web application providing flashcard & quiz services.",
-  "main": "index.js",
+  "main": "./public/dist/index.js",
   "scripts": {
-    "start": "tsc && node ./public/script/index.js",
+    "build": "webpack",
+    "start": "webpack serve",
     "test": "tsc ./test/test-ts.ts --t es6 --outDir ./test/compiled && node ./test/compiled/test-ts.js"
   },
   "keywords": [],
@@ -15,7 +16,17 @@
     "url": "git+https://github.com/taipeinative/internet-introduction.git",
     "directory": "final"
   },
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "css-minimizer-webpack-plugin": "^7.0.0",
+    "mini-css-extract-plugin": "^2.9.2",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
   "dependencies": {
-    "typescript": "^5.6.3"
+    "boxicons": "^2.1.4"
   }
 }
