@@ -2,6 +2,8 @@
 
 Flashquiz, as its name suggests, is a website that provides flashcard and quiz services. It aims to fulfill my additional niche requests based on the [existing market leader](https://quizlet.com/).
 
+✨ [Live Demo](https://taipeinative.github.io/internet-introduction/final/public/) ✨
+
 ## Features
 
 Flashquiz provides the following functionalities:
@@ -33,6 +35,9 @@ Flashquiz provides the following functionalities:
 ## Modified Snippets
 
 * [Bootstrap 5 sidebar menu with toggle button](https://bbbootstrap.com/snippets/bootstrap-5-sidebar-menu-toggle-button-34132202) from *BBbootstrap*
+  * Although being included in the title, Bootstrap is not required in this snippet. I mostly modified and optimized the hierarchy of HTML and CSS.
+
+* [Drag and Drop Sortable List using HTML CSS & JavaScript](https://www.codingnepalweb.com/drag-and-drop-sortable-list-html-javascript/) from *CodingNepal*
 
 ## Declaration
 

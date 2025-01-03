@@ -30,14 +30,25 @@
             </header>
             <nav>
                 <ul>
-                    <li><a href="#" class="button navbarLogo"><img src="assets/favicon/favicon.svg" />Flashquiz</a></li>
+                    <li><a href="#" class="button navbarLogo"><img src="assets/favicon/favicon.svg" alt="Favicon" />Flashquiz</a></li>
                     <li><a href="#" class="button active" title="Flashcards"><box-icon name='collection' color="#EEE"></box-icon>Flashcards</a></li>
                     <li><a href="#" class="button" title="Quizs"><box-icon name='edit-alt' color='#EEE'></box-icon>Quizs</a></li>
                     <li><a href="#" class="button" title="Bookmarks"><box-icon name='bookmark' color='#EEE'></box-icon>Bookmarks</a></li>
                 </ul>
             </nav>
             <main>
-                <!-- Main contents -->
+                <ol class="draggable">
+                    <li draggable="true">
+                        <div>
+                            <label for="term-1">Term</label>
+                            <input type="text" id="term-1", name="term-1" />
+                            <label for="pho-1">Phonetic Symbol</label>
+                            <input type="text" id="pho-1", name="pho-1" />
+                            <label for="def-1">Definition</label>
+                            <input type="text" id="def-1", name="def-1" />
+                        </div>
+                    </li>
+                </ol>
             </main>
         </div>
     </body>

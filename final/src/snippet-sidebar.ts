@@ -1,8 +1,8 @@
-import './styles/snippet.css';
+import './styles/snippet-sidebar.css';
 import { isNight } from './utils';
 
 // Modified from: https://bbbootstrap.com/snippets/bootstrap-5-sidebar-menu-toggle-button-34132202
-export const sidebarManager = () => {
+export const sidebarManager = (): void => {
     const snpt_container  = document.getElementById('topContainer');
     const snpt_menuButton = document.getElementById('menuButton');
     if ((snpt_container  instanceof HTMLDivElement) &&

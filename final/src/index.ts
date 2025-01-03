@@ -1,9 +1,10 @@
 import 'boxicons';
 import './styles/styles.css';
-import { sidebarManager } from './snippet';
+import { sidebarManager } from './snippet-sidebar';
+import { sortableManager } from './snippet-sortable';
 import { isNight } from './utils';
 
-const themeManager = () => {
+const themeManager = (): void => {
     if (isNight()) {
         const th_body = document.getElementsByTagName('body');
         if (th_body.length == 1) {
@@ -14,5 +15,6 @@ const themeManager = () => {
 
 window.onload = () => {
     sidebarManager();
+    sortableManager();
     themeManager();
 }
